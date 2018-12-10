@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="plantillaUsuLoagueado.master.cs" Inherits="ProyectoAspNet.plantillaUsuLoagueado" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/miestilo.css" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to.fit=no">
+
+    <style>
+       body {overflow-x: hidden;}
+    </style>
+
+</head>
+<body>
+   <form id="form2" runat="server">
+   
+    <!-- BARRA ROJA -->
+  	<div class="subnav d-none d-md-block fondo-rojo">
+  		<div class="container">
+  			<ul class="nav justify-content-end">
+				<li class="nav-item">
+				<p></p>
+				</li>
+			</ul>
+  		</div>  			
+  	</div>
+
+    <!-- MENU DE NAVEGACIÓN -->
+  	<nav id="menu-nav" class="navbar navbar-expand-lg navbar-light">
+  		<div class="container">
+  			<a class="navbar-brand" href="loggedHome.aspx">
+  				<img src="../images/logo-isde.png">
+  			</a>
+  				
+  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarExample" 
+  			aria-controls="navbarExample" aria-expanded="false" aria-label="Toogle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse justify-content-end" id="navbarExample">
+				<ul id="menu-menu-principal" class="navbar-nav">
+					<li class="menu-item"><asp:Button ID="Button1" runat="server" Text="CATEGORIAS" CssClass="nav-link" 
+                        BorderStyle="None" BackColor="White" OnClick="EnlaceCategoria" /></li>
+                        <li class="menu-item"><asp:Button ID="btnParticipantes" runat="server" Text="PARTICIPANTES" CssClass="nav-link" 
+                        BorderStyle="None" BackColor="White" OnClick="EnlaceParticipante" /></li>
+					<li class="menu-item"><asp:Button ID="btnCerrarSesion" runat="server" Text="CERRAR SESIÓN" CssClass="nav-link" 
+                        BorderStyle="None" BackColor="White" OnClick="CierraSesion" /></li>
+				</ul>
+			</div>				
+  		</div>		  
+	</nav>
+		
+	<!-- BARRA ROJA -->
+  	<div class="subnav d-none d-md-block fondo-rojo">
+  		<div class="container">
+  			<ul class="nav justify-content-end">
+				<li class="nav-item">
+				<p></p>
+				</li>
+			</ul>
+  		</div>  			
+  	</div>
+    
+    <%--<form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>--%>
+
+    <!-- Footer -->
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+   </asp:ContentPlaceHolder>
+	<nav class="navbar fixed-bottom fondo-rojo">
+		<p class="muted centrar blanco">® 2018 MBM | Copyright</p>
+	</nav>
+    </form>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/popper.min.js"></script>
+</body>
+</html>

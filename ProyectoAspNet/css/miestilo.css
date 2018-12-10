@@ -1,0 +1,32 @@
+body {
+    overflow-x: hidden;
+}
+
+.centrar {
+	text-align: center;
+}
+
+.izquierda {
+	text-align: left;
+}
+
+.derecha {
+	text-align: right;
+}
+
+.fondo-rojo {
+	background-color: #A3111A
+}
+
+.fondo-blanco {
+	background-color: #ffffff
+}
+
+.blanco {
+	color: white;
+}
+
+.negro {
+	color: black;
+}
+	

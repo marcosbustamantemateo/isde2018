@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="plantilla.master.cs" Inherits="ProyectoAspNet.plantilla" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" /> 
+    <link href="css/miestilo.css" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to.fit=no">
+
+    <style>
+       body {overflow-x: hidden;}
+    </style>
+</head>
+<body>
+
+    <!-- BARRA ROJA -->
+  	<div class="subnav d-none d-md-block fondo-rojo">
+  		<div class="container">
+  			<ul class="nav justify-content-end">
+				<li class="nav-item">
+				<p></p>
+				</li>
+			</ul>
+  		</div>  			
+  	</div>
+
+    <!-- MENU DE NAVEGACIÓN -->
+  	<nav id="menu-nav" class="navbar navbar-expand-lg navbar-light">
+  		<div class="container">
+  			<a class="navbar-brand" href="home.aspx">
+  				<img src="../images/logo-isde.png">
+  			</a>
+  				
+  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarExample" 
+  			aria-controls="navbarExample" aria-expanded="false" aria-label="Toogle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse justify-content-end" id="navbarExample">
+				<ul id="menu-menu-principal" class="navbar-nav">
+					<li class="menu-item" id="login"><a href="login.aspx" class="nav-link"><asp:Label ID="lbMenuLogin" runat="server" Text="LOGIN"></asp:Label></a></li>
+				</ul>
+			</div>				
+  		</div>		  
+	</nav>
+		
+	<!-- BARRA ROJA -->
+  	<div class="subnav d-none d-md-block fondo-rojo">
+  		<div class="container">
+  			<ul class="nav justify-content-end">
+				<li class="nav-item">
+				<p></p>
+				</li>
+			</ul>
+  		</div>  			
+  	</div>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <!-- Footer -->
+	<nav class="navbar fixed-bottom fondo-rojo">
+		<p class="muted centrar blanco">® 2018 MBM | Copyright</p>
+	</nav>
+
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/popper.min.js"></script>
+</body>
+</html>

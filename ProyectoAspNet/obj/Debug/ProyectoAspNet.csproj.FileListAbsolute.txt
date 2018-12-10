@@ -1,0 +1,16 @@
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\ProyectoAspNet.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\ProyectoAspNet.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\ProyectoAspNet.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\obj\Debug\ProyectoAspNet.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\obj\Debug\ProyectoAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\obj\Debug\ProyectoAspNet.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\obj\Debug\ProyectoAspNet.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\LogicaNegocio.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\AccesoDatos.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\LogicaNegocio.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\LogicaNegocio.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\AccesoDatos.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\AccesoDatos.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\ProyectoAspNet\bin\asp.accdb
