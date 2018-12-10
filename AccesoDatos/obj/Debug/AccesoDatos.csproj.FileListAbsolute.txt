@@ -1,0 +1,32 @@
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\bin\Debug\asp.accdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\asp.accdb
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marcos\Desktop\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\asp.accdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\ProyWeb_Bustamante_Marcoss\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\bin\Debug\asp.accdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
