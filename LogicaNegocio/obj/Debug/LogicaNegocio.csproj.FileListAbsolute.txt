@@ -1,0 +1,23 @@
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\asp.accdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Marcos\source\repos\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\asp.accdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.dll.config
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\bin\Debug\AccesoDatos.dll.config
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\Desarrollo de aplicaciones Web (DAW)\2º año\DWS\PROYECTO ASP.NET\ProyectoAspNet\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
