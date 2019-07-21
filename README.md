@@ -1,6 +1,6 @@
 # ISDE Chile 2018
 Proyecto hecho en ASP Windows Form con diseño orientado a N-capas <br>
-Realizado durante mi formación de D.A.W<br>
+Realizado durante mi formación de Desarrollo de aplicaciones web<br>
 
 <img src="admin.PNG" />
 <hr>
